@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rubiojason.github.io/portfolio-v2",
+  "homepage": "http://rubiojason.github.io/portfolio_v2",
   "name": "portfolio-v2",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +15,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build", 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
