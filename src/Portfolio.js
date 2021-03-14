@@ -69,7 +69,7 @@ function Portfolio() {
 							<a href="#" className="image"><img src="images/pic03.jpg" alt="" /></a>
 							<div className="content">
 								<h2 className="major">Skills</h2>
-								<p style={{textAlign: 'left'}}>Can use React JS for complex and well designed websites, with Redux for state management across the website.</p>
+								<p style={{textAlign: 'left'}}>Can use React JS for complex and well designed websites, with Redux for state management across web applications. </p>
 							</div>
 						</div>
 					</section>
@@ -83,29 +83,36 @@ function Portfolio() {
 									<a href="#" className="image"><img src="images/pic04.jpg" alt="" /></a>
 									<h3 className="major">Movie Rate</h3>
 									<p>Fetched data from the MovieDB api. You can search a movie, look at the most popular ones, or currently airing ones. </p>
-									<a href="https://rubiojason.github.io/movie_project/" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/movie_project" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/movie_project/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/movie_project" target="_blank" className="special">Go To Source</a>
 								</article>
 								<article>
 									<a href="#" className="image"><img src="images/pic05.jpg" alt="" /></a>
 									<h3 className="major">Language Statistics</h3>
 									<p>Showcases all of the most popular programming languages, how they're doing in terms of popularity and pay. </p>
-									<a href="https://rubiojason.github.io/Language_Project/" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Language_Project" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/Language_Project/" target="_blank"  className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Language_Project" target="_blank" className="special">Go To Source</a>
+								</article>
+								<article>
+									<a href="#" className="image"><img src="images/pic07.jpg" alt="" /></a>
+									<h3 className="major">Gym Pro</h3>
+									<p>A landing page to a gym with a modern and polished looking user interface. </p>
+									<a href="https://rubiojason.github.io/Gym-Pro/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Gym-Pro" target="_blank" className="special">Go To Source</a>
 								</article>
 								<article>
 									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
 									<h3 className="major">Astronomy Article</h3>
 									<p>Displays interesting information about outer planets and our Solar System. </p>
-									<a href="https://rubiojason.github.io/Astronomy_Landing_Page/" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Astronomy_Landing_Page" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/Astronomy_Landing_Page/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Astronomy_Landing_Page" target="_blank" className="special">Go To Source</a>
 								</article>
 								<article>
 									<a href="#" className="image"><img src="images/pic07.jpg" alt="" /></a>
 									<h3 className="major">Weather App</h3>
 									<p>Can search any city in the world and lays out weather information about that city. </p>
-									<a href="https://rubiojason.github.io/weather-app/" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/weather-app" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/weather-app/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/weather-app" target="_blank" className="special">Go To Source</a>
 								</article>
 							</section>
 						</div>
@@ -146,9 +153,6 @@ function Portfolio() {
 							<li className="icon solid fa-envelope">Gmail: <a href="#">rubiojason420@gmail.com</a></li>
 							<li className="icon brands fa-twitter">GitHub: <a href="https://github.com/rubiojason">github.com/rubiojason</a></li>
 							<li className="icon brands fa-facebook-f">LinkedIn: <a href="https://www.linkedin.com/in/jason-rubio-0260631aa/">linkedin.com</a></li>
-						</ul>
-						<ul className="copyright">
-							<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</div>
 				</section>
