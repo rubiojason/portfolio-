@@ -54,16 +54,6 @@ function Portfolio() {
 						</div>
 					</section>
 
-					{/*<section id="two" className="wrapper alt spotlight style2">
-						<div className="inner">
-							<a href="#" className="image"><img src="images/pic02.jpg" alt="" /></a>
-							<div className="content">
-								<h2 className="major">Resume</h2>
-								<p></p>
-							</div>
-						</div>
-					</section>*/}
-
 					<section id="three" className="wrapper spotlight style3">
 						<div className="inner">
 							<a href="#" className="image"><img src="images/pic03.jpg" alt="" /></a>
@@ -79,41 +69,39 @@ function Portfolio() {
 							<h2 className="major">Projects</h2>
 
 							<section className="features">
+
 								<article>
 									<a href="#" className="image"><img src="images/pic04.jpg" alt="" /></a>
 									<h3 className="major">Movie Rate</h3>
 									<p>Fetched data from the MovieDB api. You can search a movie, look at the most popular ones, or currently airing ones. </p>
-									<a href="https://rubiojason.github.io/movie_project/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/movie_project" target="_blank" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/Movie__Rate/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Movie__Rate" target="_blank" className="special">Go To Source</a>
 								</article>
-								<article>
-									<a href="#" className="image"><img src="images/pic05.jpg" alt="" /></a>
-									<h3 className="major">Language Statistics</h3>
-									<p>Showcases all of the most popular programming languages, how they're doing in terms of popularity and pay. </p>
-									<a href="https://rubiojason.github.io/Language_Project/" target="_blank"  className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Language_Project" target="_blank" className="special">Go To Source</a>
-								</article>
+
 								<article>
 									<a href="#" className="image"><img src="images/pic07.jpg" alt="" /></a>
 									<h3 className="major">Gym Pro</h3>
 									<p>A landing page to a gym with a modern and polished looking user interface. </p>
-									<a href="https://rubiojason.github.io/Gym-Pro/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Gym-Pro" target="_blank" className="special">Go To Source</a>
+									<a href="https://rubiojason.github.io/Gym_Pro/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Gym_Pro" target="_blank" className="special">Go To Source</a>
 								</article>
+
+								<article>
+									<a href="#" className="image"><img src="images/pic05.jpg" alt="" /></a>
+									<h3 className="major">Language Statistics</h3>
+									<p>Showcases all of the most popular programming languages, how they're doing in terms of popularity and pay. </p>
+									<a href="https://rubiojason.github.io/Language-Stats/" target="_blank"  className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Language-Stats" target="_blank" className="special">Go To Source</a>
+								</article>								
+
 								<article>
 									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
-									<h3 className="major">Astronomy Article</h3>
-									<p>Displays interesting information about outer planets and our Solar System. </p>
-									<a href="https://rubiojason.github.io/Astronomy_Landing_Page/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Astronomy_Landing_Page" target="_blank" className="special">Go To Source</a>
+									<h3 className="major">HyWave</h3>
+									<p>A landing page for ocean resorts and aquatic nature with stunning UI/UX designs. </p>
+									<a href="https://rubiojason.github.io/Hy-Wave/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Hy-Wave" target="_blank" className="special">Go To Source</a>
 								</article>
-								<article>
-									<a href="#" className="image"><img src="images/pic07.jpg" alt="" /></a>
-									<h3 className="major">Weather App</h3>
-									<p>Can search any city in the world and lays out weather information about that city. </p>
-									<a href="https://rubiojason.github.io/weather-app/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/weather-app" target="_blank" className="special">Go To Source</a>
-								</article>
+
 							</section>
 						</div>
 					</section>
