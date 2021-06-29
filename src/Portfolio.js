@@ -102,6 +102,14 @@ function Portfolio() {
 									<a href="https://github.com/rubiojason/Hy-Wave" target="_blank" className="special">Go To Source</a>
 								</article>
 
+								<article>
+									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
+									<h3 className="major">Cudil Car</h3>
+									<p>Landing page for a car dealership</p>
+									<a href="https://rubiojason.github.io/Cudil-Car/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Cudil-Car" target="_blank" className="special">Go To Source</a>
+								</article>
+
 							</section>
 						</div>
 					</section>
