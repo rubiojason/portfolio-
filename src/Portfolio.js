@@ -79,11 +79,27 @@ function Portfolio() {
 								</article>
 
 								<article>
+									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
+									<h3 className="major">Soccer Way</h3>
+									<p>Tracks soccer stats from clubs around the world and professional soccer players. </p>
+									<a href="https://rubiojason.github.io/Soccer_Way/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Soccer_Way" target="_blank" className="special">Go To Source</a>
+								</article>
+
+								<article>
 									<a href="#" className="image"><img src="images/pic07.jpg" alt="" /></a>
 									<h3 className="major">Gym Pro</h3>
 									<p>A landing page to a gym with a modern and polished looking user interface. </p>
 									<a href="https://rubiojason.github.io/Gym__Pro/" target="_blank" className="special">Go To App</a>
 									<a href="https://github.com/rubiojason/Gym__Pro" target="_blank" className="special">Go To Source</a>
+								</article>
+
+								<article>
+									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
+									<h3 className="major">Cudil Car</h3>
+									<p>Landing page for a car dealership</p>
+									<a href="https://rubiojason.github.io/Cudil__Car/" target="_blank" className="special">Go To App</a>
+									<a href="https://github.com/rubiojason/Cudil__Car" target="_blank" className="special">Go To Source</a>
 								</article>
 
 								<article>
@@ -100,22 +116,6 @@ function Portfolio() {
 									<p>A landing page for ocean resorts and aquatic nature with stunning UI/UX designs. </p>
 									<a href="https://rubiojason.github.io/Hy_Wave/" target="_blank" className="special">Go To App</a>
 									<a href="https://github.com/rubiojason/Hy_Wave" target="_blank" className="special">Go To Source</a>
-								</article>
-
-								<article>
-									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
-									<h3 className="major">Cudil Car</h3>
-									<p>Landing page for a car dealership</p>
-									<a href="https://rubiojason.github.io/Cudil__Car/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Cudil__Car" target="_blank" className="special">Go To Source</a>
-								</article>
-								
-								<article>
-									<a href="#" className="image"><img src="images/pic06.jpg" alt="" /></a>
-									<h3 className="major">Soccer Way</h3>
-									<p>Tracks soccer stats from clubs around the world and professional soccer players. </p>
-									<a href="https://rubiojason.github.io/Soccer_Way/" target="_blank" className="special">Go To App</a>
-									<a href="https://github.com/rubiojason/Soccer_Way" target="_blank" className="special">Go To Source</a>
 								</article>
 
 							</section>
